@@ -1,6 +1,6 @@
 # Hi, I'm Jayne 👋
 
-Data Science graduate (Ngee Ann Polytechnic) who likes taking messy, real-world data — tax spreadsheets, sensor logs, tweets, car photos — and turning it into something a non-technical stakeholder can actually use. Comfortable across the full pipeline: cleaning and wrangling, modelling, evaluation, and dashboards.
+Computer Science graduate (University of Wollongong) with a Data Science foundation from Ngee Ann Polytechnic. I like taking messy, real-world data — tax spreadsheets, sensor logs, tweets, car photos — and turning it into something a non-technical stakeholder can actually use. Comfortable across the full pipeline: cleaning and wrangling, modelling, evaluation, and dashboards.
 
 📄 [Live portfolio site](#) · 💼 [LinkedIn](#) · ✉️ [Email](#)
 
@@ -51,6 +51,8 @@ Delivered 4 automation projects for PwC's Digital Tax team, cutting manual data-
 ---
 
 ## 🎓 Education
+
+**Bachelor's Degree in Computer Science** — University of Wollongong
 
 **Diploma in Data Science** — Ngee Ann Polytechnic, School of InfoComm Technology (2021–2024)
 
