@@ -2,9 +2,7 @@
 
 Computer Science graduate (University of Wollongong) with a Data Science foundation from Ngee Ann Polytechnic. I like taking messy, real-world data — tax spreadsheets, sensor logs, tweets, car photos — and turning it into something a non-technical stakeholder can actually use. Comfortable across the full pipeline: cleaning and wrangling, modelling, evaluation, and dashboards.
 
-📄 [Live portfolio site](#) · 💼 [LinkedIn](#) · ✉️ [Email](#)
-
-*(swap the `#` placeholders above for your real links once this repo is live)*
+📄 [Live portfolio site](https://jayne5.github.io/portfolio/#) · 💼 [LinkedIn](https://www.linkedin.com/in/tan-zi-yi-jayne-profile/) · ✉️ [Email](jaynetzy12@gmail.com)
 
 ---
 
@@ -60,4 +58,4 @@ Delivered 4 automation projects for PwC's Digital Tax team, cutting manual data-
 
 ## 📫 Get in touch
 
-Open to data analyst / junior data scientist roles. Feel free to reach out via [LinkedIn](#) or [email](#).
+Open to data analyst / junior data scientist roles. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/tan-zi-yi-jayne-profile/) or [email](jaynetzy12@gmail.com).
