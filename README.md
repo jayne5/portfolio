@@ -2,7 +2,7 @@
 
 Computer Science graduate (University of Wollongong) with a Data Science foundation from Ngee Ann Polytechnic. I like taking messy, real-world data — tax spreadsheets, sensor logs, tweets, car photos — and turning it into something a non-technical stakeholder can actually use. Comfortable across the full pipeline: cleaning and wrangling, modelling, evaluation, and dashboards.
 
-📄 [Live portfolio site](https://jayne5.github.io/portfolio/#) · 💼 [LinkedIn](https://www.linkedin.com/in/tan-zi-yi-jayne-profile/) · ✉️ [Email](jaynetzy12@gmail.com)
+📄 [Live portfolio site] · 💼 [LinkedIn](https://www.linkedin.com/in/tan-zi-yi-jayne-profile/) · ✉️ [Email](jaynetzy12@gmail.com)
 
 ---
 
