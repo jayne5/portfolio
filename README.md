@@ -32,6 +32,15 @@ Compared classical and deep-learning approaches for classifying sentiment in twe
 - Ran the full comparison twice — before and after **class-balancing** — plus grid-search tuning, to show how balancing shifted precision/recall trade-offs across models
 - `Python` `NLP` `Keras/TensorFlow` `scikit-learn` `Text Preprocessing`
 
+### 🚢 Endine — Cruise Booking System Database Design — Team Project (2-person)
+
+Designed the relational database for Endine, a mock cruise booking platform letting passengers request cabin services, reserve restaurant seats, and plan onboard activities and entertainment.
+
+- Researched real restaurant and entertainment booking platforms to define functional and data requirements before modelling anything
+- Designed the full entity-relationship diagram by hand across cabin services, restaurant/dining hall reservations, entertainment, and activity bookings, with each entity's attributes and relationships defined
+- Revised the design through several rounds of feedback — reworking how bookings referenced activity/entertainment timeslots and consolidating overlapping menu entities
+- `Database Design` `ER Modelling` `Relational Databases` `Requirements Gathering`
+
 ### 🏢 Facility Maintenance & Operations Analytics — *Data Science Capstone*
 An end-to-end analytics solution for optimizing campus facility management at Ngee Ann Polytechnic, combining **7 disparate data sources**: energy consumption, fault reports, water metering, canteen crowd levels, card access logs, solar panel output, and building automation data.
 - Cleaned and merged multi-format datasets (Python/Jupyter + Alteryx + Power Query)
